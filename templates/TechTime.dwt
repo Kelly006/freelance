@@ -1,0 +1,92 @@
+<!doctype html>
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title> Tech Time Web Design </title>
+<!-- TemplateEndEditable -->
+<style> 
+            .header { 
+                background-color: orange; 
+                padding: 15px; 
+                text-align: center; 
+            }
+			
+			
+        </style>
+        <link href="../styles/styles.css" rel="stylesheet" type="text/css">
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head> 
+      
+    <body> <!-- header of website layout -->
+        <div class = "header"> 
+           <img src="../images/Techtime.PNG" alt="#">
+        </div> 
+          
+        <!-- nevigation menu for website layout -->
+        <div class = "nav_menu"> 
+           <ul class="navmenu">
+	<li><a href="#">Home</a></li>
+	<li><a href="#">Products</a></li>
+	<li><a href="#">Stores</a></li>
+	<li><a href="#">About Us</a></li>
+	<li><a href="#">Contact</a></li>
+			</ul></div>
+
+          
+        
+        <div class = "header"> 
+            <h2 style = "color:white;"> 
+                Enter any text youd like dan 
+            </h2> 
+        </div> 
+        <br> 
+          
+        <center style="font-size:200%;"> 
+            Remaining Section 
+        </center>
+		<!-- Content section of website layout -->
+        <div class = "row"> 
+              
+            <div class = "columnA"> 
+                <h2>Column A</h2> 
+                <p>Prepare for the Recruitment drive of product 
+                based companies like Microsoft, Amazon, Adobe 
+                etc with a free online placement preparation 
+                course. The course focuses on various MCQ's 
+                & Coding question likely to be asked in the 
+                interviews & make your upcoming placement 
+                season efficient and successful.</p> 
+            </div>  
+              
+            <div class = "columnB"> 
+                <h2>Column B</h2> 
+                <p>Prepare for the Recruitment drive of product 
+                based companies like Microsoft, Amazon, Adobe 
+                etc with a free online placement preparation 
+                course. The course focuses on various MCQ's 
+                & Coding question likely to be asked in the 
+                interviews & make your upcoming placement 
+                season efficient and successful.</p> 
+            </div> 
+              
+            <div class = "columnC"> 
+                <h2>Column C</h2> 
+                <p>Prepare for the Recruitment drive of product 
+                based companies like Microsoft, Amazon, Adobe 
+                etc with a free online placement preparation 
+                course. The course focuses on various MCQ's 
+                & Coding question likely to be asked in the 
+                interviews & make your upcoming placement 
+                season efficient and successful.</p> 
+            </div> 
+        </div> 
+    </body> 
+
+
+
+</html>
